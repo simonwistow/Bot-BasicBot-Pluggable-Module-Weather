@@ -1,0 +1,8 @@
+lib/Bot/BasicBot/Pluggable/Module/Aviation.pm
+lib/Bot/BasicBot/Pluggable/Module/Weather.pm
+MANIFEST			This list of files
+MANIFEST.bak
+MANIFEST.SKIP
+META.yml
+README
+t/01use.t

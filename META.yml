@@ -1,0 +1,14 @@
+--- #YAML:1.0
+name: Bot-BasicBot-Pluggable-Module-Search
+version: 0.8
+author: ~
+abstract: ~
+license: perl
+requires:
+  Bot::BasicBot::Pluggable: 0.1
+  Geo::WeatherNWS: 0
+  HTML::Entities: 0
+  LWP::Simple: 0
+  Test::More: 0
+provides: {}
+generated_by: Module::Build version 0.25
